@@ -1,7 +1,7 @@
 {
    "name":"fuzzyset",
    "description":"A fuzzy string set for JavaScript",
-   "version":"0.0.3",
+   "version":"0.0.4",
    "homepage":"http://github.com/washt/fuzzyset",
    "repository":"git://github.com/washt/fuzzyset.git",
    "author":"Glen Chiacchieri (http://glench.com/)",
